@@ -1,0 +1,30 @@
+_repo: The-Battle-of-The-PressDaughter-Theophila-Carlile-Campbell_38370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Theophila Carlile
+    alias: Campbell, Theophila Carlile, Mrs.
+    gutenberg_agent_id: '39423'
+    url: http://www.gutenberg.org/2009/agents/39423
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38370'
+  lccn: 04001990
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carlile, Richard, 1790-1843'
+- !lcsh 'Paine, Thomas, 1737-1809. Age of reason'
+- !lcc 'Z'
+- !lcsh 'Manchester (England) -- History'
+- !lcsh 'Freedom of the press -- Great Britain'
+title: "The Battle of The Press\r\nAs Told in the Story of the Life of Richard Carlile\
+  \ by His Daughter, Theophila Carlile Campbell"
+url: http://www.gutenberg.org/ebooks/38370
