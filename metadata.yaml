@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39423'
     url: http://www.gutenberg.org/2009/agents/39423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38370#The-Battle-of-The-PressDaughter-Theophila-Carlile-Campbell
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
